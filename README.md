@@ -1,4 +1,4 @@
-Experiment control script repository for the room-temperature NV characterization setup (confocal laser scanning microscope) in the Yacoby Lab in LISE 607 at Harvard University.
+Experiment control script repository for the room-temperature diamond NV setup (confocal laser scanning microscope) in the Yacoby Lab in LISE 607 at Harvard University.
 
 The scripts and instrument implementations should be used with PyLabControl (https://github.com/LISE-B26/pylabcontrol).
 
