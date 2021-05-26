@@ -10,6 +10,4 @@ Main instruments used on this setup include:
 - Thorlabs TDC001 DC servo motor controller
 - Thorlabs power meter PM100D
 
-Ziwei Qiu
 
-ziweiqiu@g.harvard.edu
