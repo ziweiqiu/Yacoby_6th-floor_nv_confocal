@@ -1,6 +1,6 @@
 Experiment control script repository for the room-temperature diamond NV setup (confocal laser scanning microscope) in the Yacoby Lab in LISE 607 at Harvard University.
 
-The scripts and instrument implementations should be used with PyLabControl (https://github.com/LISE-B26/pylabcontrol).
+The scripts and instrument implementations should be used with pylabcontrol (https://github.com/LISE-B26/pylabcontrol).
 
 Main instruments used on this setup include:
 - PulseBlaster: Programmable TTL Pulse Generator
